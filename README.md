@@ -1,5 +1,7 @@
 # StartupBuddy by ConquerortheCrown
-> Visit [ProgrammerBuddy](https://github.com/ConquerortheCrown/programmerbuddy) for curated collection of valuable resources designed to assist programmers, developers, and tech enthusiasts at all skill levels.
+Visit [ProgrammerBuddy](https://github.com/ConquerortheCrown/programmerbuddy) for curated collection of valuable resources designed to assist programmers, developers, and tech enthusiasts at all skill levels.
+
+> We are open for Contribution [Learn more](https://github.com/ConquerortheCrown/StartupBuddy/blob/main/CONTRIBUTING.md)
 
 Here are some resources that can be incredibly beneficial for *Startup Founders*:
 
