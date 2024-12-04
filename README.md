@@ -1,5 +1,11 @@
 # StartupBuddy by ConquerortheCrown
-Visit [ProgrammerBuddy](https://github.com/ConquerortheCrown/programmerbuddy) for curated collection of valuable resources designed to assist programmers, developers, and tech enthusiasts at all skill levels.
+
+#### **About Me - Abhinav Sharma**  
+**Serial Entrepreneur**  
+Founder of **ConquerortheCrown**, **SmilingRobo**, and **Necrozma Labs**
+👋 Connect on [LinkedIN](https://www.linkedin.com/in/abhinavsharma07/), [Twitter](https://x.com/abhinavsharma_x)
+
+Hi! I’m Abhinav Sharma. When I started my founder journey, I wished for a single resource to navigate the chaos of launching and scaling a startup. That’s why I created this list—a curated collection of tools, guides, and insights for early-stage founders.
 
 > We are open for Contribution [Learn more](https://github.com/ConquerortheCrown/StartupBuddy/blob/main/CONTRIBUTING.md)
 
