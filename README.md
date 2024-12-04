@@ -3,19 +3,34 @@
 #### **About Me - Abhinav Sharma**  
 **Serial Entrepreneur**  
 Founder of **ConquerortheCrown**, **SmilingRobo**, and **Necrozma Labs**
-👋 Connect on [LinkedIN](https://www.linkedin.com/in/abhinavsharma07/), [Twitter](https://x.com/abhinavsharma_x)
+
+👋 Let's Connect on [LinkedIN](https://www.linkedin.com/in/abhinavsharma07/), [Twitter](https://x.com/abhinavsharma_x)
 
 Hi! I’m Abhinav Sharma. When I started my founder journey, I wished for a single resource to navigate the chaos of launching and scaling a startup. That’s why I created this list—a curated collection of tools, guides, and insights for early-stage founders.
+
+---
 
 > We are open for Contribution [Learn more](https://github.com/ConquerortheCrown/StartupBuddy/blob/main/CONTRIBUTING.md)
 
 Here are some resources that can be incredibly beneficial for *Startup Founders*:
 
+ * [How to come up with a startup idea](#ideageneration)
  * [Fundraising](#fundraising)
  * [Product](#product)
  * [Sales](#sales)
  * [Marketing](#marketing)
  * [Finance](#finance)
+ * [Development and Website Tools](#development-and-website-tools)
+ * [Design Tools](#design-tools)
+ * [Product Management & Research tools](#product-management-&-research-tools)
+
+--- 
+
+## IdeaGeneration
+* [10 Proven Frameworks For Generating Startup Ideas](https://www.antler.co/academy/how-to-get-startup-ideas)
+* [How to come up with startup ideas](https://www.youtube.com/watch?v=Th8JoIan4dg&t=1s)
+* [AI Idea Generator](https://ideanote.io/idea-generator) from Ideanote
+* FounderPal's [Business Ideas Generator](https://founderpal.ai/business-ideas-generator)
 
 ## Fundraising
 * [PitchDeckHunt](https://www.pitchdeckhunt.com/) - Pitch Deck Examples From the Most Successful Startups
@@ -26,6 +41,8 @@ Here are some resources that can be incredibly beneficial for *Startup Founders*
 * [VC Cold Email Template](https://www.notion.so/VC-Cold-Email-Template-9e78692d54fd44ee98f2213e07f9dd30)
 
 ## Product
+* [Frameworks for Product Success](https://articles.sequoiacap.com/frameworks-for-product-success) from Sequoia
+* [The Real Product Market Fit](https://youtu.be/FBOLk9s9Ci4) by Michael Seibel
 * [Product Hunt PRD Template](https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/edit)
 * [Jobs-To-Be-Done framework](https://uxdesign.cc/8-things-to-use-in-jobs-to-be-done-framework-for-product-development-4ae7c6f3c30b?gi=a48520302e64) - Offer a product the customer loves
 * [Launch Strategy Template ](https://docs.google.com/document/d/1Y4NwrsoucPqNFqIkhwNgKpPzf0wqnrN6tcKF2g4nVoM/edit)
@@ -42,6 +59,10 @@ Here are some resources that can be incredibly beneficial for *Startup Founders*
 * [Sales CRM Dashboard](https://airtable.com/universe/expLpOufs5M3HyF2U/sales-crm-dashboard)
 
 ## Marketing
+* [Kleo:](https://kleo.so/) Discover and create the best LinkedIn content
+* [TweetHunter:](https://tweethunter.io/) Discover the best X content
+* [EasyGen](https://www.easygen.io/): AI powered post generator
+* [Copy.ai](http://Copy.ai): GTM AI Platform
 * [Betterment's Launch Marketing Template](https://coda.io/t/Betterments-Launch-Marketing-Template_tskehujftcc)
 * [Keyword Research Planning](https://airtable.com/universe/exp7KdPbDzqK1zTod/keyword-research-planning-template)
 * [Marketing Ressources Hand-picked collection](https://github.com/goabstract/Marketing-for-Engineers)
@@ -59,4 +80,30 @@ Here are some resources that can be incredibly beneficial for *Startup Founders*
 * [Hiring a Startup CFO](https://www.toptal.com/finance/interim-cfos/hiring-a-startup-cfo)
 * [Managing Startup Finances](https://www.ycombinator.com/library/8I-managing-startup-finances-sus-2019)
 * [Venture Debt 101: Basics and Approach](https://www.ycombinator.com/library/CH-venture-debt-101-basics-and-approach)
+
+## Development and Website Tools
+- [Tally](https://tally.so/): intuitive form builder
+- [Unicorn platform](https://unicornplatform.com/): website builder for startups
+- [MUI](https://mui.com/): react UI tools
+- [Cursor](https://www.cursor.com/): AI code editor
+- [Bubble](https://bubble.io/): full-stack, no-code app builder
+- [Thunkable](https://thunkable.com/): no-cope app development
+- [Retool](https://retool.com/): no-code development platform for building custom business software
+- [Laws of UX](https://lawsofux.com/): collection of best practices for building user interfaces
+
+## Design tools
+- [Dribble](https://dribbble.com/): design inspiration
+- [Mobbin](https://mobbin.com/): discover real-world design inspiration:
+- [Looka](https://looka.com/): AI-powered graphic design platform for branding
+- [Undesign](https://undesign.learn.uno/): collection of free design tools and resources
+- [Recraft](https://www.recraft.ai/): image generation and editing AI tool
+
+## Product Management & Research tools
+- [Linear](https://linear.app/): plan and build products
+- [Featurebase](https://www.featurebase.app/): user feedback tool
+- [Maze](https://maze.co/): user research platform
+- [Split](https://www.split.io/): feature delivery platform
+- [Optimal Workshop](https://www.optimalworkshop.com/): UX research & design testing platform
+- [Posthog](https://posthog.com/): all-in-one platform for product analytics, feature flags, session replays, experiments, and surveys
+
   
