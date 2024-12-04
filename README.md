@@ -4,11 +4,12 @@
 **Serial Entrepreneur**  
 Founder of **ConquerortheCrown**, **SmilingRobo**, and **Necrozma Labs**
 
-👋 Let's Connect on [LinkedIN](https://www.linkedin.com/in/abhinavsharma07/), [Twitter](https://x.com/abhinavsharma_x)
+👋 Let's Connect on [LinkedIn](https://www.linkedin.com/in/abhinavsharma07/), [Twitter](https://x.com/abhinavsharma_x)
 
 Hi! I’m Abhinav Sharma. When I started my founder journey, I wished for a single resource to navigate the chaos of launching and scaling a startup. That’s why I created this list—a curated collection of tools, guides, and insights for early-stage founders.
 
 ---
+## StartupBuddy
 
 > We are open for Contribution [Learn more](https://github.com/ConquerortheCrown/StartupBuddy/blob/main/CONTRIBUTING.md)
 
@@ -19,10 +20,10 @@ Here are some resources that can be incredibly beneficial for *Startup Founders*
  * [Product](#product)
  * [Sales](#sales)
  * [Marketing](#marketing)
- * [Finance](#finance)
+ * [Finance](#finances)
  * [Development and Website Tools](#development-and-website-tools)
  * [Design Tools](#design-tools)
- * [Product Management & Research tools](#product-management-&-research-tools)
+ * [Product Management & Research tools](#product-management--research-tools)
 
 --- 
 
